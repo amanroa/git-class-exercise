@@ -1,3 +1,4 @@
 Hello and welcome to the Git exercise! Log your name down below:
 
 Name: Aashni Manroa
+Grace Vaughan
